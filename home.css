@@ -1,0 +1,31 @@
+.home-page {
+    background-image: url('https://res.cloudinary.com/ganu369/image/upload/v1657295144/WhatsApp_Image_2022-07-08_at_11.56.07_AM_f9kxlj.jpg');
+    background-size: cover;
+    height: 100vh;
+    margin-top: 86px;
+}
+.team-name {
+    color: orangered;
+    font-family: serif;
+    font-size: 75px;
+    font-weight: bold;
+}
+.intro-of-team {
+    color: orange;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+    padding-left: 140px;
+    padding-right: 140px;
+}
+
+@media  (max-width: 780px) {
+    .team-name {
+        /* font-size: 50px; */
+    }
+    .intro-of-team {
+        padding-left: 70px;
+        padding-right: 70px;
+        font-size: 12px;
+
+    }
+}

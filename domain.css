@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body{
+
+    /* background-image: linear-gradient(to left top, #f7ff00, #1af77a, #00ddd5, #00b7ff, #1286eb);  */
+    font-family: 'Roboto';
+}
+
+.dom-page {
+    margin-top: 86px;
+    background-image: linear-gradient(to left top, #f7ff00, #1af77a, #00ddd5, #00b7ff, #1286eb);
+    /* height: 100%; */
+    background-size: cover;
+    
+}
+.dom-top {
+    /* text-align: center; */
+}
+.above-head {
+    color: #f9f9f9;
+    font-weight: bold;
+    padding: 20px 0;
+    font-size: 60px;
+
+}
+.dom-desc {
+    color: #f0f0f0;
+    font-size: 20px;
+}
+.dom-matter {
+    border-radius: 20px;
+    margin: 20px;
+    padding: 25px;
+    background-color: #b1c0c5  ;
+    filter: contrast(100%);
+    display: flex;
+    flex-wrap: wrap;
+}
+.dom-name {
+    color: #ffffff;
+    font-weight: 800;
+
+}
+.bada1 {
+    margin-right: 0%;
+}
+.bada2 {
+    margin-right: 0%;
+}
